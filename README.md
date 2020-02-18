@@ -1,3 +1,4 @@
+Note to self: Step 7 Not complete
 <img src="https://s3.amazonaws.com/devmountain/readme-logo.png" width="250" align="right">
 
 # Project Summary
